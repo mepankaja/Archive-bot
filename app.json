@@ -2,16 +2,16 @@
   "name": "archiveBot",
   "env": {
     "BOT_TOKEN": {
-      "description": "Your bot token, as a string.",
-      "value": ""
+      "description": "8595243333:AAGUheiYQ16YOPRzp9AkhX67G-c9ctFQwnk",
+      "value": "8595243333:AAGUheiYQ16YOPRzp9AkhX67G-c9ctFQwnk"
     },
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "22574649"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "e3730dd3cbdf1ac2c80e7b6ed6d06f13"
 }
   },
   "buildpacks": [
